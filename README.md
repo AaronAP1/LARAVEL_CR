@@ -19,6 +19,10 @@ Este es un sistema para gestionar productos, clientes y ventas, así como genera
 - **PHP 7.4 o superior**: Requisito mínimo de versión de PHP.
 - **MySQL**: Base de datos utilizada para almacenar la información.
 
+## BD ESTRUCTURA 
+![image](https://github.com/user-attachments/assets/1277f763-b052-43d2-8983-ff0bfa1ad94d)
+
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
